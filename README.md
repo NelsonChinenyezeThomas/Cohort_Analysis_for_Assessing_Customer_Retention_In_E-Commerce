@@ -1,5 +1,8 @@
 # Cohort Analysis for Assessing Customer Retention in E-commerce
 
+![Cohort_Analysis_for_Assessing_Customer_Retention_In_E-Commerce](ecommercepic.jpg)
+
+
 ## Project Overview
 This project performs a cohort analysis to evaluate customer retention in the e-commerce industry. By analyzing customer purchase patterns over time, this analysis aims to identify trends in customer loyalty, the retention rate across different cohorts, and overall customer behavior. This information is essential for understanding and improving long-term customer engagement strategies.
 
